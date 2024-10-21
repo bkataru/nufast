@@ -1,6 +1,6 @@
 # nufast
 
-Cargo crate containing Rust port of the NuFast neutrino oscillation probability code.
+Cargo crate containing Rust port of the [NuFast](https://github.com/PeterDenton/NuFast) neutrino oscillation probability code.
 
 ## features
 
